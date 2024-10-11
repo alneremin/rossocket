@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>rossocket</name>
+  <version>1.0.0</version>
+  <description>The rossocket package</description>
+
+  <maintainer email="alneremin@gmail.com">Alexander Eryomin</maintainer>
+
+  <license>Apache License 2.0</license>
+
+  <author>Alexander Eryomin</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
